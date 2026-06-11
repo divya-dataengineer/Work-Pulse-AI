@@ -1,0 +1,25 @@
+# Environment Variables
+.env
+.env.*
+
+# Node Modules
+node_modules/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Python Cache
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
