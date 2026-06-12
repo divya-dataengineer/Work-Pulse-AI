@@ -90,5 +90,11 @@ WorkPulse AI was implemented using Microsoft Copilot Studio.
 
 The agent was configured and tested in Copilot Studio as part of the Microsoft Agent League Enterprise Agents challenge.
 
+## Copilot Studio Topics
 
+- Generate Meeting Summary
+- Extract Action Items
+- Project Risk Analysis
+- Productivity Insights
+- Followup Recommendations
 
