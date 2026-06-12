@@ -124,4 +124,10 @@ Screenshots of the agent configuration and topic setup are available in the `scr
 ### Copilot Studio Implementation
 - screenshots/copilot-studio/
 
+## Testing Evidence
 
+### Agent Configuration
+screenshots/copilot-studio/
+
+### Agent Test Results
+screenshots/test-results/
