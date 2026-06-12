@@ -54,3 +54,33 @@ WorkPulse-AI/
 * Follow-up Automation
 * Accountability Monitoring
 
+  ## Microsoft IQ Integration
+
+WorkPulse AI is designed to leverage Microsoft Work IQ as its enterprise intelligence layer.
+
+Work IQ enables:
+
+* Organizational context awareness
+* Meeting intelligence
+* Relationship understanding
+* Contextual grounding
+* Enterprise memory
+
+Using Work IQ, WorkPulse AI transforms enterprise conversations into actionable business outcomes by identifying action items, tracking commitments, detecting risks, and recommending next steps.
+
+## Microsoft 365 Copilot Integration
+
+WorkPulse AI is designed as a Microsoft 365 Copilot Chat Agent.
+
+The solution provides:
+
+* Meeting Summarization
+* Action Item Extraction
+* Risk Detection
+* Decision Tracking
+* Follow-up Recommendations
+
+The conversational interface is intended to operate within Microsoft 365 Copilot Chat, providing seamless access to enterprise intelligence.
+
+
+
