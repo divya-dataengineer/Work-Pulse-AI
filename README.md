@@ -98,3 +98,22 @@ The agent was configured and tested in Copilot Studio as part of the Microsoft A
 - Productivity Insights
 - Followup Recommendations
 
+## Microsoft Copilot Studio Implementation
+
+WorkPulse AI was implemented using Microsoft Copilot Studio as part of the Microsoft Agent League Enterprise Agents challenge.
+
+### Configured Topics
+
+* Meeting Summary Generator
+* Extract Action Items
+* Project Risk Analysis
+* Productivity Insights
+* Follow-up Recommendations
+
+These topics demonstrate how WorkPulse AI transforms enterprise conversations into actionable business outcomes by generating summaries, identifying tasks, detecting risks, and recommending next steps.
+
+### Implementation Evidence
+
+Screenshots of the agent configuration and topic setup are available in the `screenshots/copilot-studio` folder.
+
+
