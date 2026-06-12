@@ -116,4 +116,12 @@ These topics demonstrate how WorkPulse AI transforms enterprise conversations in
 
 Screenshots of the agent configuration and topic setup are available in the `screenshots/copilot-studio` folder.
 
+## Project Screenshots
+
+### Solution Visualizations
+- screenshots/project-visuals/
+
+### Copilot Studio Implementation
+- screenshots/copilot-studio/
+
 
