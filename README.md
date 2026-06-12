@@ -84,5 +84,11 @@ The solution provides:
 
 The conversational interface is intended to operate within Microsoft 365 Copilot Chat, providing seamless access to enterprise intelligence.
 
+## Microsoft Copilot Studio Implementation
+
+WorkPulse AI was implemented using Microsoft Copilot Studio.
+
+The agent was configured and tested in Copilot Studio as part of the Microsoft Agent League Enterprise Agents challenge.
+
 
 
