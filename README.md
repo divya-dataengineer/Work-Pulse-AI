@@ -1,5 +1,7 @@
 # Work-Pulse-AI
-WorkPulse AI is an enterprise action intelligence agent for Microsoft 365 Copilot that transforms meetings, emails, chats, and documents into actionable insights, tracked commitments, and measurable business outcomes.
+WorkPulse AI
+
+An Enterprise Action Intelligence Agent built for Microsoft 365 Copilot that transforms conversations into accountable actions and measurable business outcomes. WorkPulse AI is an enterprise action intelligence agent for Microsoft 365 Copilot that transforms meetings, emails, chats, and documents into actionable insights, tracked commitments, and measurable business outcomes.
 
 ## 🏷️ Topics
 
