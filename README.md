@@ -23,3 +23,34 @@ WorkPulse AI is an enterprise action intelligence agent for Microsoft 365 Copilo
 - Action Item Extraction
 - Business Process Automation
 - Microsoft Ecosystem
+
+  ## 📂 Repository Structure
+
+```text
+WorkPulse-AI/
+├── README.md
+├── docs/
+├── architecture/
+├── screenshots/
+├── presentation/
+├── assets/
+```
+
+## 📚 Documentation
+
+* Project Overview
+* Business Impact Analysis
+* Work IQ Integration
+* Architecture Design
+* Future Roadmap
+* Demo Script
+
+## 🎯 Key Capabilities
+
+* Meeting Intelligence
+* Action Item Extraction
+* Risk Detection
+* Decision Tracking
+* Follow-up Automation
+* Accountability Monitoring
+
