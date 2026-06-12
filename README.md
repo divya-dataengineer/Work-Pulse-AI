@@ -97,6 +97,7 @@ The agent was configured and tested in Copilot Studio as part of the Microsoft A
 - Project Risk Analysis
 - Productivity Insights
 - Followup Recommendations
+- Executive Status Reports
 
 ## Microsoft Copilot Studio Implementation
 
@@ -109,6 +110,7 @@ WorkPulse AI was implemented using Microsoft Copilot Studio as part of the Micro
 * Project Risk Analysis
 * Productivity Insights
 * Follow-up Recommendations
+* Executive Status Reports
 
 These topics demonstrate how WorkPulse AI transforms enterprise conversations into actionable business outcomes by generating summaries, identifying tasks, detecting risks, and recommending next steps.
 
